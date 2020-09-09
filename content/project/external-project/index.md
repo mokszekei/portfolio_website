@@ -3,7 +3,7 @@ title: Personal Website in HUGO
 summary: GitHub link for my website files
 tags:
 - HUGO
-date: "2020-8-25"
+date: "2020-8-26"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/mokszekei/portfolio_website
